@@ -1,0 +1,314 @@
+!MKR#2
+[Autolabel]
+LFHD	Left front head
+RFHD	Right front head
+LBHD	Left back head
+RBHD	Right back head
+
+C7	Back of neck
+T10	Upper back
+CLAV    Clavicle
+STRN	Sternum
+LBAK	Left back (optional alternative anti-sym)
+RBAK	Right back (optional alternative anti-sym)
+
+LSHO	Left shoulder
+LUPA	Left upper arm (optional alternative anti-sym)
+LELB	Left elbow
+LFRA	Left forearm (optional alternative anti-sym)
+LWRA	Left wrist bar thumb side (alternative pair 1)
+LWRB	Left wrist bar pinkie side (alternative pair 1)
+LFIN	Left finger
+
+RSHO	Right shoulder
+RUPA	Right upper arm (optional alternative anti-sym)
+RELB	Right elbow
+RFRA	Right forearm (optional alternative anti-sym)
+RWRA	Right wrist bar thumb side (alternative pair 1)
+RWRB	Right wrist bar pinkie side (alternative pair 1)
+RFIN	Right finger
+
+SACR	Sacral wand marker
+LASI	Left ASIS
+RASI	Right ASIS
+LPSI	Left PSIS
+RPSI	Right PSIS
+
+LTHI	Left thigh wand marker
+LKNE	Left knee
+LTIB	Left tibial wand marker
+LANK	Left ankle
+LHEE	Left heel
+LTOE	Left toe (2nd metatarsel head)
+
+RTHI	Right thigh wand marker
+RKNE	Right knee
+RTIB	Right tibial wand marker
+RANK	Right ankle
+RHEE	Right heel
+RTOE	Right toe (2nd metatarsel head)
+
+LKAX    Left knee axis
+LKD1    Left knee device 1
+LKD2    Left knee device 2
+
+RKAX    Right knee axis
+RKD1    Right knee device 1
+RKD2    Right knee device 2
+
+# Displayed after the model has run
+RFEP	Right hip joint centre output
+RFEO  Right knee joint centre output
+RTIO  Right ankle joint centre
+LFEP  Left hip joint centre output
+LFEO  Left knee joint centre output
+LTIO  Left ankle joint centre output
+
+RFEP,LFEP
+RFEP,RFEO
+RFEO,RTIO
+RTIO,RTOE
+LFEP,LFEO
+LFEO,LTIO
+LTIO,LTOE
+
+
+LASI,LTHI,LKNE
+RASI,RTHI,RKNE
+
+LKNE,LKD1
+LKNE,LKD2
+RKNE,RKD1
+RKNE,RKD2
+LKAX,LKD1
+LKAX,LKD2
+RKAX,RKD1
+RKAX,RKD2
+
+Head = LFHD,RFHD,LBHD,RBHD
+
+Thorax = C7,T10,CLAV,STRN,LBAK,RBAK
+
+LeftShoulder = LSHO,CLAV,T10
+LeftUpperArm = LSHO,LUPA,LELB
+LeftLowerArm = LELB,LFRA,LWRA,LWRB
+LeftHand = LFIN
+
+RightShoulder = RSHO,CLAV,T10
+RightUpperArm = RSHO,RUPA,RELB
+RightLowerArm = RELB,RFRA,RWRA,RWRB
+RightHand = RFIN
+
+Pelvis = LASI,RASI,LPSI,RPSI,SACR
+
+LeftUpperLeg = LTHI,LKNE
+LeftLowerLeg = LKNE,LTIB,LANK
+LeftFoot = LANK,LHEE,LTOE
+
+RightUpperLeg = RTHI,RKNE
+RightLowerLeg = RKNE,RTIB,RANK
+RightFoot = RANK,RHEE,RTOE
+
+Head,Thorax
+Thorax,Pelvis
+Pelvis,LeftUpperLeg
+Pelvis,RightUpperLeg
+LeftLowerArm,LeftHand
+RightLowerArm,RightHand
+
+
+[Angles]
+LHeadAngles	Head relative to Global/Body axes (Left)
+RHeadAngles	Head relative to Global/Body axes (Right)
+LThoraxAngles	Thorax relative to Global/Body axes (Left)
+RThoraxAngles	Thorax relative to Global/Body axes (Right)
+LPelvisAngles	Pelvis relative to Global/Body axes (Left)
+RPelvisAngles	Pelvis relative to Global/Body axes (Right)
+LNeckAngles	Neck Rotation (Left)
+RNeckAngles	Neck Rotation (Right)
+LSpineAngles	Lumbar Spine Rotation (Left)
+RSpineAngles	Lumbar Spine Rotation (Right)
+LFootProgressAngles	Left Foot relative to Global/Body axes
+RFootProgressAngles	Right Foot relative to Global/Body axes
+LShoulderAngles	Left Shoulder Rotation
+RShoulderAngles	Right Shoulder Rotation
+LElbowAngles	Left Elbow Rotation
+RElbowAngles	Right Elbow Rotation
+LWristAngles	Left Wrist Rotation
+RWristAngles	Right Wrist Rotation
+LHipAngles	Left Hip Rotation
+RHipAngles	Right Hip Rotation
+LKneeAngles	Left Knee Rotation
+RKneeAngles	Right Knee Rotation
+LAnkleAngles	Left Ankle Rotation
+RAnkleAngles	Right Ankle Rotation
+GlobalPelvisAngles	Pelvis angles (right side) related to global frame
+
+[Displacements]
+PELO		Pelvis origin
+
+
+[Forces]
+LHipForce	Left Hip Resultant Force
+RHipForce	Right Hip Resultant Force
+LKneeForce	Left Knee Resultant Force
+RKneeForce	Right Knee Resultant Force
+LAnkleForce	Left Ankle Resultant Force
+RAnkleForce	Right Ankle Resultant Force
+LWaistForce
+RWaistForce
+LNeckForce
+RNeckForce
+LShoulderForce
+RShoulderForce
+LElbowForce
+RElbowForce
+LWristForce
+RWristForce
+
+
+[Moments]
+LHipMoment	Left Hip Resultant Moment
+RHipMoment	Right Hip Resultant Moment
+LKneeMoment	Left Knee Resultant Moment
+RKneeMoment	Right Knee Resultant Moment
+LAnkleMoment	Left Ankle Resultant Moment
+RAnkleMoment	Right Ankle Resultant Moment
+LWaistMoment
+RWaistMoment
+LNeckMoment
+RNeckMoment
+LShoulderMoment
+RShoulderMoment
+LElbowMoment
+RElbowMoment
+LWristMoment
+RWristMoment
+
+
+[Powers]
+LHipPower	Left Hip Power
+RHipPower	Right Hip Power
+LKneePower	Left Knee Power
+RKneePower	Right Knee Power
+LAnklePower	Left Ankle Power
+RAnklePower	Right Ankle Power
+LWaistPower
+RWaistPower
+LNeckPower
+RNeckPower
+LShoulderPower
+RShoulderPower
+LElbowPower
+RElbowPower
+LWristPower
+RWristPower
+
+
+[Bones]
+PELO
+PELP
+PELA
+PELL
+RFEO
+RFEP
+RFEA
+RFEL
+LFEO
+LFEP
+LFEA
+LFEL
+RTIO
+RTIP
+RTIA
+RTIL
+LTIO
+LTIP
+LTIA
+LTIL
+RFOO
+RFOP
+RFOA
+RFOL
+LFOO
+LFOP
+LFOA
+LFOL
+RTOO
+RTOP
+RTOA
+RTOL
+LTOO
+LTOP
+LTOA
+LTOL
+HEDO
+HEDP
+HEDA
+HEDL
+TRXO
+TRXP
+TRXA
+TRXL
+RCLO
+RCLP
+RCLA
+RCLL
+LCLO
+LCLP
+LCLA
+LCLL
+RHUO
+RHUP
+RHUA
+RHUL
+LHUO
+LHUP
+LHUA
+LHUL
+RRAO
+RRAP
+RRAA
+RRAL
+LRAO
+LRAP
+LRAA
+LRAL
+RHNO
+RHNP
+RHNA
+RHNL
+LHNO
+LHNP
+LHNA
+LHNL
+
+
+Pelvis = PELO,PELP,PELA,PELL
+RightFemur = RFEO,RFEP,RFEA,RFEL
+LeftFemur = LFEO,LFEP,LFEA,LFEL
+RightTibia = RTIO,RTIP,RTIA,RTIL
+LeftTibia = LTIO,LTIP,LTIA,LTIL
+RightFoot = RFOO,RFOP,RFOA,RFOL
+LeftFoot = LFOO,LFOP,LFOA,LFOL
+RightToe = RTOO,RTOP,RTOA,RTOL
+LeftToe = LTOO,LTOP,LTOA,LTOL
+Thorax = TRXO,TRXP,TRXA,TRXL
+Head = HEDO,HEDP,HEDA,HEDL
+RightClavicle = RCLO,RCLP,RCLA,RCLL
+LeftClavicle = LCLO,LCLP,LCLA,LCLL
+RightHumerus = RHUO,RHUP,RHUA,RHUL
+LeftHumerus = LHUO,LHUP,LHUA,LHUL
+RightRadius = RRAO,RRAP,RRAA,RRAL
+LeftRadius = LRAO,LRAP,LRAA,LRAL
+RightHand = RHNO,RHNP,RHNA,RHNL
+LeftHand = LHNO,LHNP,LHNA,LHNL
+
+
+[Centre of Mass]
+CentreOfMass
+CentreOfMassFloor
+
+CentreOfMass, CentreOfMassFloor
+
+

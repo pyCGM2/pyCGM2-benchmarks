@@ -1,0 +1,178 @@
+{
+  "Apparent equinus" : {
+    "S01":{
+        "id":"177_21-06-2011",
+        "L1equalR1":"True",
+        "staticTrial":"177_21-06-2011_S.c3d",
+        "dynamicTrials": ["177_21-06-2011_L1.c3d",
+                        "177_21-06-2011_R1.c3d"],
+        "vicon_mpfile":"177_21-06-2011_Subj_1.mp"
+        },
+    "S02":{
+        "id":"220_19-11-2013",
+        "staticTrial":"220_19-11-2013_S.c3d",
+        "dynamicTrials": ["220_19-11-2013_L1.c3d",
+                        "220_19-11-2013_R1.c3d"],
+        "vicon_mpfile":"220_19-11-2013_Subj_1.mp"
+    },
+    "S03":{
+            "id":"254_14-01-2011",
+            "staticTrial":"254_14-01-2011_S.c3d",
+            "dynamicTrials": ["254_14-01-2011_L1.c3d",
+                            "254_14-01-2011_R1.c3d"],
+            "vicon_mpfile":"254_14-01-2011_Subj_1.mp"
+        },
+    "S04":{
+            "id":"356_23-01-2012",
+            "staticTrial":"356_23-01-2012_S.c3d",
+            "dynamicTrials": ["356_23-01-2012_L1.c3d",
+                            "356_23-01-2012_R1.c3d"],
+            "vicon_mpfile":"356_23-01-2012_Subj_1.mp"
+        },
+    "S05":{
+            "id":"465_29-08-2013",
+            "L1equalR1":"True",
+            "staticTrial":"465_29-08-2013_S.c3d",
+            "dynamicTrials": ["465_29-08-2013_L1.c3d",
+                            "465_29-08-2013_R1.c3d"],
+            "vicon_mpfile":"465_29-08-2013_Subj_1.mp"
+        }
+    },
+    "Crouch" : {
+        "S01":{
+          "id":"117_23-04-2013",
+          "staticTrial":"117_23-04-2013_S.c3d",
+          "dynamicTrials": ["117_23-04-2013_L1.c3d",
+                          "117_23-04-2013_R1.c3d"],
+          "vicon_mpfile":"117_23-04-2013_Subj_1.mp"
+        },
+        "S02":{
+            "id":"125_17-06-2013",
+            "staticTrial":"125_17-06-2013_S.c3d",
+            "dynamicTrials": ["125_17-06-2013_L1.c3d",
+                        "125_17-06-2013_R1.c3d"],
+            "vicon_mpfile":"125_17-06-2013_Subj_1.mp"
+        },
+        "S03":{
+            "id":"153_04-04-2012",
+            "staticTrial":"153_04-04-2012_S.c3d",
+            "dynamicTrials": ["153_04-04-2012_L1.c3d",
+                        "153_04-04-2012_R1.c3d"],
+            "vicon_mpfile":"153_04-04-2012_Subj_1.mp"
+        },
+        "S04":{
+            "id":"161_13-11-2012",
+            "L1equalR1":"True",
+            "staticTrial":"161_13-11-2012_S.c3d",
+            "dynamicTrials": ["161_13-11-2012_L1.c3d",
+                      "161_13-11-2012_R1.c3d"],
+            "vicon_mpfile":"161_13-11-2012_Subj_1.mp"
+        },
+        "S05":{
+            "id":"183_08-07-2013",
+            "staticTrial":"183_08-07-2013_S.c3d",
+            "dynamicTrials": ["183_08-07-2013_L1.c3d",
+                      "183_08-07-2013_R1.c3d"],
+            "vicon_mpfile":"183_08-07-2013_Subj_1.mp"
+        },
+        "S06":{
+            "id":"63_29-04-2010",
+            "L1equalR1":"True",
+            "staticTrial":"63_29-04-2010_S.c3d",
+            "dynamicTrials": ["63_29-04-2010_L1.c3d",
+                      "63_29-04-2010_R1.c3d"],
+            "vicon_mpfile":"63_29-04-2010_Subj_1.mp"
+        }
+    },
+    "Jump" : {
+        "S01":{
+          "id":"211_28-08-2013",
+          "staticTrial":"211_28-08-2013_S.c3d",
+          "dynamicTrials": ["211_28-08-2013_L1.c3d",
+                          "211_28-08-2013_R1.c3d"],
+          "vicon_mpfile":"211_28-08-2013_Subj_1.mp"
+        },
+        "S02":{
+            "id":"223_13-10-2010",
+            "staticTrial":"223_13-10-2010_S.c3d",
+            "dynamicTrials": ["223_13-10-2010_L1.c3d",
+                        "223_13-10-2010_R1.c3d"],
+            "vicon_mpfile":"223_13-10-2010_Subj_1.mp"
+        },
+        "S03":{
+            "id":"399_05-12-2013_S",
+            "staticTrial":"399_05-12-2013_S.c3d",
+            "dynamicTrials": ["399_05-12-2013_L1.c3d",
+                        "399_05-12-2013_R1.c3d"],
+            "vicon_mpfile":"399_05-12-2013_Subj_1.mp"
+        },
+        "S04":{
+            "id":"606_03-02-2014",
+            "L1equalR1":"True",
+            "staticTrial":"606_03-02-2014_S.c3d",
+            "dynamicTrials": ["606_03-02-2014_L1.c3d",
+                      "606_03-02-2014_R1.c3d"],
+            "vicon_mpfile":"606_03-02-2014_Subj_1.mp"
+        },
+        "S05":{
+            "id":"253_23-03-2010",
+            "staticTrial":"253_23-03-2010_S.c3d",
+            "dynamicTrials": ["253_23-03-2010_L1.c3d",
+                      "253_23-03-2010_R1.c3d"],
+            "vicon_mpfile":"253_23-03-2010_Subj_1.mp"
+        },
+        "S06":{
+            "id":"521_11-05-2010",
+            "L1equalR1":"True",
+            "staticTrial":"521_11-05-2010_S.c3d",
+            "dynamicTrials": ["521_11-05-2010_L1.c3d",
+                      "521_11-05-2010_R1.c3d"],
+            "vicon_mpfile":"521_11-05-2010_Subj_1.mp"
+        }
+    },
+    "True equinus" : {
+        "S01":{
+          "id":"11_16-10-2012",
+          "staticTrial":"11_16-10-2012_S.c3d",
+          "dynamicTrials": ["11_16-10-2012_L1.c3d",
+                          "11_16-10-2012_R1.c3d"],
+          "vicon_mpfile":"11_16-10-2012_Subj_1.mp"
+        },
+        "S02":{
+          "id":"54_22-11-2010",
+          "staticTrial":"54_22-11-2010_S.c3d",
+          "dynamicTrials": ["54_22-11-2010_L1.c3d",
+                          "54_22-11-2010_R1.c3d"],
+          "vicon_mpfile":"54_22-11-2010_Subj_1.mp"
+        },
+        "S03":{
+          "id":"63_15-11-2012",
+          "staticTrial":"63_15-11-2012_S.c3d",
+          "dynamicTrials": ["63_15-11-2012_L1.c3d",
+                          "63_15-11-2012_R1.c3d"],
+          "vicon_mpfile":"63_15-11-2012_Subj_1.mp"
+        },
+        "S04":{
+          "id":"76_14-03-2012",
+          "L1equalR1":"True",
+          "staticTrial":"76_14-03-2012_S.c3d",
+          "dynamicTrials": ["76_14-03-2012_L1.c3d",
+                          "76_14-03-2012_R1.c3d"],
+          "vicon_mpfile":"76_14-03-2012_Subj_1.mp"
+        },
+        "S05":{
+          "id":"100_16-02-2011",
+          "staticTrial":"100_16-02-2011_S.c3d",
+          "dynamicTrials": ["100_16-02-2011_L1.c3d",
+                          "100_16-02-2011_R1.c3d"],
+          "vicon_mpfile":"100_16-02-2011_Subj_1.mp"
+        },
+        "S06":{
+          "id":"103_10-11-2011",
+          "staticTrial":"103_10-11-2011_S.c3d",
+          "dynamicTrials": ["103_10-11-2011_L1.c3d",
+                          "103_10-11-2011_R1.c3d"],
+          "vicon_mpfile":"103_10-11-2011_Subj_1.mp"
+        }
+    }
+}

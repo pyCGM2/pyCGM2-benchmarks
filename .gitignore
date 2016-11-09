@@ -49,6 +49,7 @@ coverage.xml
 *.mo
 *.pot
 
+
 # Django stuff:
 *.log
 local_settings.py
@@ -87,3 +88,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+# ------ my config -----
+Gait patterns/Apparent equinus/origin
+Gait patterns/Crouch/origin
+Gait patterns/Jump/origin
+Gait patterns/True equinus/origin
