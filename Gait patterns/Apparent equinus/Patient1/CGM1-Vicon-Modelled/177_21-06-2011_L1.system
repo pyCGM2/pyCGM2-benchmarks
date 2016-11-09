@@ -367,26 +367,7 @@
         <Param name="AlwaysShow" value="false"/>
         <Param name="RawVisible" value="false"/>
       </ParamList>
-      <ParamList name="Device::6">
-        <Param name="UserID" value="5"/>
-        <Param name="DeviceName" value=""/>
-        <Param name="Connected" value="true"/>
-        <Param name="DelayCompensation" value="0"/>
-        <Param name="DeviceReady" value="true"/>
-        <Param name="SourceName" value="Source 6 (Force Plate)"/>
-        <Param name="Connectivity" value="Analogue"/>
-        <Param name="SourceID" value="6"/>
-        <Param name="SourceStatus" value="Ok"/>
-        <Param name="DeviceFamily" value="Imported Force Plate"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceCategory" value="Force Plate"/>
-        <Param name="FramePeriod" value="1350000"/>
-        <Param name="SamplePeriod" value="135000"/>
-        <Param name="Visible" value="true"/>
-        <Param name="AlwaysShow" value="false"/>
-        <Param name="RawVisible" value="false"/>
-      </ParamList>
+      
       <ParamList name="Device::489bb61bf1c5c70dbc40e15643af4cd0">
         <Param name="UserID" value="1"/>
         <Param name="DeviceName" value=""/>
@@ -937,16 +918,7 @@
         <Param name="DeviceOutputType" value="CoP"/>
         <Param name="DeviceOutputQuantity" value="1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
       </ParamList>
-      <ParamList name="DeviceOutput::6,3">
-        <Param name="DeviceOutputName" value="CoP"/>
-        <Param name="DeviceOutputReady" value="true"/>
-        <Param name="Connected" value="true"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="3"/>
-        <Param name="DeviceOutputType" value="CoP"/>
-        <Param name="DeviceOutputQuantity" value="1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
-      </ParamList>
+      
       <ParamList name="DeviceOutput::489bb61bf1c5c70dbc40e15643af4cd0,3">
         <Param name="DeviceOutputName" value="CoP"/>
         <Param name="DeviceOutputReady" value="true"/>
@@ -1302,16 +1274,7 @@
         <Param name="DeviceOutputType" value="Force"/>
         <Param name="DeviceOutputQuantity" value="0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
       </ParamList>
-      <ParamList name="DeviceOutput::6,1">
-        <Param name="DeviceOutputName" value="Force"/>
-        <Param name="DeviceOutputReady" value="true"/>
-        <Param name="Connected" value="true"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="1"/>
-        <Param name="DeviceOutputType" value="Force"/>
-        <Param name="DeviceOutputQuantity" value="0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
-      </ParamList>
+      
       <ParamList name="DeviceOutput::489bb61bf1c5c70dbc40e15643af4cd0,1">
         <Param name="DeviceOutputName" value="Force"/>
         <Param name="DeviceOutputReady" value="true"/>
@@ -1667,16 +1630,7 @@
         <Param name="DeviceOutputType" value="Moment"/>
         <Param name="DeviceOutputQuantity" value="0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
       </ParamList>
-      <ParamList name="DeviceOutput::6,2">
-        <Param name="DeviceOutputName" value="Moment"/>
-        <Param name="DeviceOutputReady" value="true"/>
-        <Param name="Connected" value="true"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="2"/>
-        <Param name="DeviceOutputType" value="Moment"/>
-        <Param name="DeviceOutputQuantity" value="0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
-      </ParamList>
+      
       <ParamList name="DeviceOutput::489bb61bf1c5c70dbc40e15643af4cd0,2">
         <Param name="DeviceOutputName" value="Moment"/>
         <Param name="DeviceOutputReady" value="true"/>
@@ -2368,27 +2322,9 @@
         <Param name="DeviceOutputID" value="3"/>
         <Param name="DeviceOutputComponentID" value="3"/>
       </ParamList>
-      <ParamList name="DeviceOutputComponent::6,3,1">
-        <Param name="DeviceOutputComponentName" value="Cx"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="3"/>
-        <Param name="DeviceOutputComponentID" value="1"/>
-      </ParamList>
-      <ParamList name="DeviceOutputComponent::6,3,2">
-        <Param name="DeviceOutputComponentName" value="Cy"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="3"/>
-        <Param name="DeviceOutputComponentID" value="2"/>
-      </ParamList>
-      <ParamList name="DeviceOutputComponent::6,3,3">
-        <Param name="DeviceOutputComponentName" value="Cz"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="3"/>
-        <Param name="DeviceOutputComponentID" value="3"/>
-      </ParamList>
+      
+      
+      
       <ParamList name="DeviceOutputComponent::489bb61bf1c5c70dbc40e15643af4cd0,3,1">
         <Param name="DeviceOutputComponentName" value="Cx"/>
         <Param name="DeviceTag" value="489bb61bf1c5c70dbc40e15643af4cd0"/>
@@ -3129,27 +3065,9 @@
         <Param name="DeviceOutputID" value="1"/>
         <Param name="DeviceOutputComponentID" value="3"/>
       </ParamList>
-      <ParamList name="DeviceOutputComponent::6,1,1">
-        <Param name="DeviceOutputComponentName" value="Fx"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="1"/>
-        <Param name="DeviceOutputComponentID" value="1"/>
-      </ParamList>
-      <ParamList name="DeviceOutputComponent::6,1,2">
-        <Param name="DeviceOutputComponentName" value="Fy"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="1"/>
-        <Param name="DeviceOutputComponentID" value="2"/>
-      </ParamList>
-      <ParamList name="DeviceOutputComponent::6,1,3">
-        <Param name="DeviceOutputComponentName" value="Fz"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="1"/>
-        <Param name="DeviceOutputComponentID" value="3"/>
-      </ParamList>
+      
+      
+      
       <ParamList name="DeviceOutputComponent::489bb61bf1c5c70dbc40e15643af4cd0,1,1">
         <Param name="DeviceOutputComponentName" value="Fx"/>
         <Param name="DeviceTag" value="489bb61bf1c5c70dbc40e15643af4cd0"/>
@@ -3890,27 +3808,9 @@
         <Param name="DeviceOutputID" value="2"/>
         <Param name="DeviceOutputComponentID" value="3"/>
       </ParamList>
-      <ParamList name="DeviceOutputComponent::6,2,1">
-        <Param name="DeviceOutputComponentName" value="Mx"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="2"/>
-        <Param name="DeviceOutputComponentID" value="1"/>
-      </ParamList>
-      <ParamList name="DeviceOutputComponent::6,2,2">
-        <Param name="DeviceOutputComponentName" value="My"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="2"/>
-        <Param name="DeviceOutputComponentID" value="2"/>
-      </ParamList>
-      <ParamList name="DeviceOutputComponent::6,2,3">
-        <Param name="DeviceOutputComponentName" value="Mz"/>
-        <Param name="DeviceTag" value="6"/>
-        <Param name="DeviceID" value="6"/>
-        <Param name="DeviceOutputID" value="2"/>
-        <Param name="DeviceOutputComponentID" value="3"/>
-      </ParamList>
+      
+      
+      
       <ParamList name="DeviceOutputComponent::489bb61bf1c5c70dbc40e15643af4cd0,2,1">
         <Param name="DeviceOutputComponentName" value="Mx"/>
         <Param name="DeviceTag" value="489bb61bf1c5c70dbc40e15643af4cd0"/>
