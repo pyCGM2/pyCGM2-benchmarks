@@ -70,6 +70,13 @@
         </Parameters>
       </OperationSubType>
     </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Delete Event" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:01:49"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
   </Run>
 
 </Trial>
