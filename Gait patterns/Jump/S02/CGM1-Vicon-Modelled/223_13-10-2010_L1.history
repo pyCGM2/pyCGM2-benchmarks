@@ -76,6 +76,69 @@
           <Param header="0" name="Date" value="2016-Nov-08 13:21:26"/>
         </Parameters>
       </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:23:15"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:23:28"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:23:51"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:23:55"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:24:06"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:24:11"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Fill Gaps &amp; Filter Data" notes="">
+      <OperationSubType name="Filter Trajectories - Woltring" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:24:24"/>
+          <Param header="0" name="First Frame" value="32"/>
+          <Param header="0" name="Last Frame" value="289"/>
+          <Param header="0" name="Filter Mode" value="MSE"/>
+          <Param header="0" name="Trajectories" value="All trajectories"/>
+          <Param header="0" name="Smoothing" value="10"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Data Processing" notes="">
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 18:24:25"/>
+          <Param header="0" name="First Frame" value="32"/>
+          <Param header="0" name="Last Frame" value="289"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
     </OperationType>
   </Run>
 
