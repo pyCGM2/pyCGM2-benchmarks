@@ -120,6 +120,13 @@
         </Parameters>
       </OperationSubType>
     </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Delete Events Outside Region of Interest" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-22 15:05:01"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
   </Run>
 
 </Trial>

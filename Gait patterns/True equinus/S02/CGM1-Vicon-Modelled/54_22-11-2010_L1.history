@@ -130,6 +130,28 @@
         </Parameters>
       </OperationSubType>
     </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Add Event" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-22 13:47:26"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Delete Event" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-22 13:47:29"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Delete Event" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-22 13:47:33"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Add Event" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-22 13:47:35"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
   </Run>
 
 </Trial>
