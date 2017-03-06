@@ -1,9 +1,9 @@
 [Node Information]
 TYPE=SUBJECT
-NAME=Patient7
+NAME=S05
 [SUBJECT_INFO]
-DESCRIPTION=L1 = R1
-NOTES=
+DESCRIPTION=
+NOTES=trial 01 = trial 02 + warn : RLCALC disappear
 STAGES=
 TYPE=
 GENDER=

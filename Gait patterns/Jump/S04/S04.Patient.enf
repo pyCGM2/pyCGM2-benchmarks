@@ -1,9 +1,9 @@
 [Node Information]
 TYPE=SUBJECT
-NAME=Patient4
+NAME=S04
 [SUBJECT_INFO]
 DESCRIPTION=
-NOTES=L1 = R1 - No Left Kinetitic
+NOTES=trial 01 = trial 02  +  warn : no Left Kinetic
 STAGES=
 TYPE=
 GENDER=

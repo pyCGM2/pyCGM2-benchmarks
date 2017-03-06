@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Trial name="76_14-03-2012_S" notes="">
+
+  <Parameters>
+    <Param header="0" name="c3d" value="76_14-03-2012_S.c3d"/>
+    <Param header="0" name="Path" value="C:\Users\AAA34169\Documents\VICON DATA\Gait patterns\True equinus\S04"/>
+  </Parameters>
+
+  <Run name="" notes="">
+    <Parameters>
+      <Param header="0" name="Version" value="2.5.0.93422h"/>
+    </Parameters>
+    <OperationType name="Data Processing" notes="">
+      <OperationSubType name="Process Static Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-08 14:28:47"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="300"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Generate RT Subject" value="Yes"/>
+          <Param header="0" name="RT Subject Template" value=""/>
+          <Param header="1" name="Assume Horizontal" value=""/>
+          <Param header="0" name="Left Foot" value="Yes"/>
+          <Param header="0" name="Right Foot" value="Yes"/>
+          <Param header="0" name="Head" value="Yes"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Delete Model Outputs" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-06 11:03:46"/>
+          <Param header="0" name="Model Output" value="S04: LAbsAnkleAngle"/>
+          <Param header="0" name="Model Output" value="S04: LAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S04: LFemurProjections"/>
+          <Param header="0" name="Model Output" value="S04: LFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S04: LFootProjections"/>
+          <Param header="0" name="Model Output" value="S04: LHipAngles"/>
+          <Param header="0" name="Model Output" value="S04: LHip_GOM"/>
+          <Param header="0" name="Model Output" value="S04: LKneeAngles"/>
+          <Param header="0" name="Model Output" value="S04: LKnee_GOM"/>
+          <Param header="0" name="Model Output" value="S04: LNewPelAngles"/>
+          <Param header="0" name="Model Output" value="S04: LPThAng"/>
+          <Param header="0" name="Model Output" value="S04: LPelvisAngles"/>
+          <Param header="0" name="Model Output" value="S04: LPelvisProjections"/>
+          <Param header="0" name="Model Output" value="S04: LPelvis_GOM"/>
+          <Param header="0" name="Model Output" value="S04: LThAng"/>
+          <Param header="0" name="Model Output" value="S04: LTibiaProjections"/>
+          <Param header="0" name="Model Output" value="S04: RAbsAnkleAngle"/>
+          <Param header="0" name="Model Output" value="S04: RAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S04: RFemurProjections"/>
+          <Param header="0" name="Model Output" value="S04: RFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S04: RFootProjections"/>
+          <Param header="0" name="Model Output" value="S04: RHipAngles"/>
+          <Param header="0" name="Model Output" value="S04: RHip_GOM"/>
+          <Param header="0" name="Model Output" value="S04: RKneeAngles"/>
+          <Param header="0" name="Model Output" value="S04: RKnee_GOM"/>
+          <Param header="0" name="Model Output" value="S04: RNewPelAngles"/>
+          <Param header="0" name="Model Output" value="S04: RPThAng"/>
+          <Param header="0" name="Model Output" value="S04: RPelvisAngles"/>
+          <Param header="0" name="Model Output" value="S04: RPelvisProjections"/>
+          <Param header="0" name="Model Output" value="S04: RThAng"/>
+          <Param header="0" name="Model Output" value="S04: RTibiaProjections"/>
+          <Param header="0" name="Model Output" value="S04: LFE"/>
+          <Param header="0" name="Model Output" value="S04: LFO"/>
+          <Param header="0" name="Model Output" value="S04: LTI"/>
+          <Param header="0" name="Model Output" value="S04: LTO"/>
+          <Param header="0" name="Model Output" value="S04: PEL"/>
+          <Param header="0" name="Model Output" value="S04: RFE"/>
+          <Param header="0" name="Model Output" value="S04: RFO"/>
+          <Param header="0" name="Model Output" value="S04: RTI"/>
+          <Param header="0" name="Model Output" value="S04: RTO"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Delete Trajectories" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-06 11:07:06"/>
+          <Param header="0" name="Trajectory" value="S04:RKNE"/>
+          <Param header="0" name="Trajectory" value="S04:LKNE"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Data Processing" notes="">
+      <OperationSubType name="Process Static Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-06 11:07:15"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="13"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Generate RT Subject" value="Yes"/>
+          <Param header="0" name="RT Subject Template" value=""/>
+          <Param header="1" name="Assume Horizontal" value=""/>
+          <Param header="0" name="Left Foot" value="Yes"/>
+          <Param header="0" name="Right Foot" value="Yes"/>
+          <Param header="0" name="Head" value="Yes"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+  </Run>
+
+</Trial>

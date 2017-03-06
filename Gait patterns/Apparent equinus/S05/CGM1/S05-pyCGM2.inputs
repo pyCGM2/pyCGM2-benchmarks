@@ -1,0 +1,25 @@
+{ 
+  "version" : "0.1",  
+  "Global" : {
+    "Marker diameter" : 25,
+    "Point suffix" : ""
+  },
+  "Calibration" : {
+    "Left flat foot" : "False" ,
+    "Right flat foot" : "False" 
+  },
+  "Fitting" : {
+    "Moment Projection" : "Distal"
+  },
+  "Processing" : {
+    "Normative data" : {
+      "Author" : "Schwartz2008",
+      "Modality" : "Free"
+    },
+    "Subject" : {"id" : "S05",
+                 "pattern" : "Apparent equinus"
+    },
+    "Experimental conditions" : {},
+    "Model" : {"version" : "CGM1"}
+  }    
+}

@@ -1,9 +1,9 @@
 [Node Information]
 TYPE=SUBJECT
-NAME=Patient1
+NAME=S01
 [SUBJECT_INFO]
 DESCRIPTION=
-NOTES=warn : no RHEE on _R1
+NOTES=warn : gait trial 02 (no RHEE)
 STAGES=
 TYPE=
 GENDER=

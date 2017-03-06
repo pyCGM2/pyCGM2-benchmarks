@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Trial name="103_10-11-2011_L1" notes="">
+
+  <Parameters>
+    <Param header="0" name="c3d" value="103_10-11-2011_L1.c3d"/>
+    <Param header="0" name="Path" value="C:\Users\AAA34169\Documents\VICON DATA\Gait patterns\True equinus\S06"/>
+  </Parameters>
+
+  <Run name="" notes="">
+    <Parameters>
+      <Param header="0" name="Version" value="2.5.0.93422h"/>
+    </Parameters>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Delete Events Outside Region of Interest" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 10:26:32"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Fill Gaps &amp; Filter Data" notes="">
+      <OperationSubType name="Filter Trajectories - Woltring" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 10:26:45"/>
+          <Param header="0" name="First Frame" value="50"/>
+          <Param header="0" name="Last Frame" value="242"/>
+          <Param header="0" name="Filter Mode" value="MSE"/>
+          <Param header="0" name="Trajectories" value="All trajectories"/>
+          <Param header="0" name="Smoothing" value="10"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Data Processing" notes="">
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 10:26:46"/>
+          <Param header="0" name="First Frame" value="50"/>
+          <Param header="0" name="Last Frame" value="242"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Add Event" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 10:27:27"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Add Event" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 10:27:34"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Add Event" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2016-Nov-09 10:27:41"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Delete Model Outputs" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-06 11:22:32"/>
+          <Param header="0" name="Model Output" value="S06: LAbsAnkleAngle"/>
+          <Param header="0" name="Model Output" value="S06: LAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S06: LDKAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S06: LDKFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S06: LDKHipAngles"/>
+          <Param header="0" name="Model Output" value="S06: LDKKneeAngles"/>
+          <Param header="0" name="Model Output" value="S06: LFemurProjections"/>
+          <Param header="0" name="Model Output" value="S06: LFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S06: LFootProjections"/>
+          <Param header="0" name="Model Output" value="S06: LHipAngles"/>
+          <Param header="0" name="Model Output" value="S06: LHipFun"/>
+          <Param header="0" name="Model Output" value="S06: LHipPat"/>
+          <Param header="0" name="Model Output" value="S06: LKneeAngles"/>
+          <Param header="0" name="Model Output" value="S06: LKneeFun"/>
+          <Param header="0" name="Model Output" value="S06: LKneePat"/>
+          <Param header="0" name="Model Output" value="S06: LNewPelAngles"/>
+          <Param header="0" name="Model Output" value="S06: LPThAng"/>
+          <Param header="0" name="Model Output" value="S06: LPelvisAngles"/>
+          <Param header="0" name="Model Output" value="S06: LPelvisProjections"/>
+          <Param header="0" name="Model Output" value="S06: LThAng"/>
+          <Param header="0" name="Model Output" value="S06: LTibiaProjections"/>
+          <Param header="0" name="Model Output" value="S06: RAbsAnkleAngle"/>
+          <Param header="0" name="Model Output" value="S06: RAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S06: RDKAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S06: RDKFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S06: RDKHipAngles"/>
+          <Param header="0" name="Model Output" value="S06: RDKKneeAngles"/>
+          <Param header="0" name="Model Output" value="S06: RFemurProjections"/>
+          <Param header="0" name="Model Output" value="S06: RFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S06: RFootProjections"/>
+          <Param header="0" name="Model Output" value="S06: RHipAngles"/>
+          <Param header="0" name="Model Output" value="S06: RHipFun"/>
+          <Param header="0" name="Model Output" value="S06: RHipPat"/>
+          <Param header="0" name="Model Output" value="S06: RKneeAngles"/>
+          <Param header="0" name="Model Output" value="S06: RKneeFun"/>
+          <Param header="0" name="Model Output" value="S06: RKneePat"/>
+          <Param header="0" name="Model Output" value="S06: RNewPelAngles"/>
+          <Param header="0" name="Model Output" value="S06: RPThAng"/>
+          <Param header="0" name="Model Output" value="S06: RPelvisAngles"/>
+          <Param header="0" name="Model Output" value="S06: RPelvisProjections"/>
+          <Param header="0" name="Model Output" value="S06: RThAng"/>
+          <Param header="0" name="Model Output" value="S06: RTibiaProjections"/>
+          <Param header="0" name="Model Output" value="S06: LAnkleForce"/>
+          <Param header="0" name="Model Output" value="S06: LGroundReactionForce"/>
+          <Param header="0" name="Model Output" value="S06: LHipForce"/>
+          <Param header="0" name="Model Output" value="S06: LKneeForce"/>
+          <Param header="0" name="Model Output" value="S06: LNormalisedGRF"/>
+          <Param header="0" name="Model Output" value="S06: RAnkleForce"/>
+          <Param header="0" name="Model Output" value="S06: RGroundReactionForce"/>
+          <Param header="0" name="Model Output" value="S06: RHipForce"/>
+          <Param header="0" name="Model Output" value="S06: RKneeForce"/>
+          <Param header="0" name="Model Output" value="S06: RNormalisedGRF"/>
+          <Param header="0" name="Model Output" value="S06: LAnkleMoment"/>
+          <Param header="0" name="Model Output" value="S06: LDKAnkleMoment"/>
+          <Param header="0" name="Model Output" value="S06: LDKHipMoment"/>
+          <Param header="0" name="Model Output" value="S06: LDKKneeMoment"/>
+          <Param header="0" name="Model Output" value="S06: LGroundReactionMoment"/>
+          <Param header="0" name="Model Output" value="S06: LHipMoment"/>
+          <Param header="0" name="Model Output" value="S06: LKneeMoment"/>
+          <Param header="0" name="Model Output" value="S06: RAnkleMoment"/>
+          <Param header="0" name="Model Output" value="S06: RDKAnkleMoment"/>
+          <Param header="0" name="Model Output" value="S06: RDKHipMoment"/>
+          <Param header="0" name="Model Output" value="S06: RDKKneeMoment"/>
+          <Param header="0" name="Model Output" value="S06: RGroundReactionMoment"/>
+          <Param header="0" name="Model Output" value="S06: RHipMoment"/>
+          <Param header="0" name="Model Output" value="S06: RKneeMoment"/>
+          <Param header="0" name="Model Output" value="S06: LFE"/>
+          <Param header="0" name="Model Output" value="S06: LFO"/>
+          <Param header="0" name="Model Output" value="S06: LTI"/>
+          <Param header="0" name="Model Output" value="S06: LTO"/>
+          <Param header="0" name="Model Output" value="S06: PEL"/>
+          <Param header="0" name="Model Output" value="S06: RFE"/>
+          <Param header="0" name="Model Output" value="S06: RFO"/>
+          <Param header="0" name="Model Output" value="S06: RTI"/>
+          <Param header="0" name="Model Output" value="S06: RTO"/>
+          <Param header="0" name="Model Output" value="S06: LAnklePower"/>
+          <Param header="0" name="Model Output" value="S06: LDKAnklePower"/>
+          <Param header="0" name="Model Output" value="S06: LDKHipPower"/>
+          <Param header="0" name="Model Output" value="S06: LDKKneePower"/>
+          <Param header="0" name="Model Output" value="S06: LHipPower"/>
+          <Param header="0" name="Model Output" value="S06: LKneePower"/>
+          <Param header="0" name="Model Output" value="S06: RAnklePower"/>
+          <Param header="0" name="Model Output" value="S06: RDKAnklePower"/>
+          <Param header="0" name="Model Output" value="S06: RDKHipPower"/>
+          <Param header="0" name="Model Output" value="S06: RDKKneePower"/>
+          <Param header="0" name="Model Output" value="S06: RHipPower"/>
+          <Param header="0" name="Model Output" value="S06: RKneePower"/>
+          <Param header="0" name="Model Output" value="S06: LAdBrLength"/>
+          <Param header="0" name="Model Output" value="S06: LAdLoLength"/>
+          <Param header="0" name="Model Output" value="S06: LAdMaInfLength"/>
+          <Param header="0" name="Model Output" value="S06: LAdMaMidLength"/>
+          <Param header="0" name="Model Output" value="S06: LAdMaSupLength"/>
+          <Param header="0" name="Model Output" value="S06: LBiFLLength"/>
+          <Param header="0" name="Model Output" value="S06: LBiFSLength"/>
+          <Param header="0" name="Model Output" value="S06: LExDLLength"/>
+          <Param header="0" name="Model Output" value="S06: LExHLLength"/>
+          <Param header="0" name="Model Output" value="S06: LFlDLLength"/>
+          <Param header="0" name="Model Output" value="S06: LFlHLLength"/>
+          <Param header="0" name="Model Output" value="S06: LGMedAntLength"/>
+          <Param header="0" name="Model Output" value="S06: LGMedMidLength"/>
+          <Param header="0" name="Model Output" value="S06: LGMedPosLength"/>
+          <Param header="0" name="Model Output" value="S06: LGMinAntLength"/>
+          <Param header="0" name="Model Output" value="S06: LGMinMidLength"/>
+          <Param header="0" name="Model Output" value="S06: LGMinPosLength"/>
+          <Param header="0" name="Model Output" value="S06: LGemeLength"/>
+          <Param header="0" name="Model Output" value="S06: LGlMaInfLength"/>
+          <Param header="0" name="Model Output" value="S06: LGlMaMidLength"/>
+          <Param header="0" name="Model Output" value="S06: LGlMaSupLength"/>
+          <Param header="0" name="Model Output" value="S06: LGracLength"/>
+          <Param header="0" name="Model Output" value="S06: LIliaLength"/>
+          <Param header="0" name="Model Output" value="S06: LLaGaLength"/>
+          <Param header="0" name="Model Output" value="S06: LMeGaLength"/>
+          <Param header="0" name="Model Output" value="S06: LPELOLength"/>
+          <Param header="0" name="Model Output" value="S06: LPeBrLength"/>
+          <Param header="0" name="Model Output" value="S06: LPeTeLength"/>
+          <Param header="0" name="Model Output" value="S06: LPectLength"/>
+          <Param header="0" name="Model Output" value="S06: LPeriLength"/>
+          <Param header="0" name="Model Output" value="S06: LPsoaLength"/>
+          <Param header="0" name="Model Output" value="S06: LQuFeLength"/>
+          <Param header="0" name="Model Output" value="S06: LReFeLength"/>
+          <Param header="0" name="Model Output" value="S06: LSartLength"/>
+          <Param header="0" name="Model Output" value="S06: LSeMeLength"/>
+          <Param header="0" name="Model Output" value="S06: LSeTeLength"/>
+          <Param header="0" name="Model Output" value="S06: LSoleLength"/>
+          <Param header="0" name="Model Output" value="S06: LTiAnLength"/>
+          <Param header="0" name="Model Output" value="S06: LTiPoLength"/>
+          <Param header="0" name="Model Output" value="S06: LVaInLength"/>
+          <Param header="0" name="Model Output" value="S06: LVaLaLength"/>
+          <Param header="0" name="Model Output" value="S06: LVaMeLength"/>
+          <Param header="0" name="Model Output" value="S06: RAdBrLength"/>
+          <Param header="0" name="Model Output" value="S06: RAdLoLength"/>
+          <Param header="0" name="Model Output" value="S06: RAdMaInfLength"/>
+          <Param header="0" name="Model Output" value="S06: RAdMaMidLength"/>
+          <Param header="0" name="Model Output" value="S06: RAdMaSupLength"/>
+          <Param header="0" name="Model Output" value="S06: RBiFLLength"/>
+          <Param header="0" name="Model Output" value="S06: RBiFSLength"/>
+          <Param header="0" name="Model Output" value="S06: RExDLLength"/>
+          <Param header="0" name="Model Output" value="S06: RExHLLength"/>
+          <Param header="0" name="Model Output" value="S06: RFlDLLength"/>
+          <Param header="0" name="Model Output" value="S06: RFlHLLength"/>
+          <Param header="0" name="Model Output" value="S06: RGMedAntLength"/>
+          <Param header="0" name="Model Output" value="S06: RGMedMidLength"/>
+          <Param header="0" name="Model Output" value="S06: RGMedPosLength"/>
+          <Param header="0" name="Model Output" value="S06: RGMinAntLength"/>
+          <Param header="0" name="Model Output" value="S06: RGMinMidLength"/>
+          <Param header="0" name="Model Output" value="S06: RGMinPosLength"/>
+          <Param header="0" name="Model Output" value="S06: RGemeLength"/>
+          <Param header="0" name="Model Output" value="S06: RGlMaInfLength"/>
+          <Param header="0" name="Model Output" value="S06: RGlMaMidLength"/>
+          <Param header="0" name="Model Output" value="S06: RGlMaSupLength"/>
+          <Param header="0" name="Model Output" value="S06: RGracLength"/>
+          <Param header="0" name="Model Output" value="S06: RIliaLength"/>
+          <Param header="0" name="Model Output" value="S06: RLaGaLength"/>
+          <Param header="0" name="Model Output" value="S06: RMeGaLength"/>
+          <Param header="0" name="Model Output" value="S06: RPELOLength"/>
+          <Param header="0" name="Model Output" value="S06: RPeBrLength"/>
+          <Param header="0" name="Model Output" value="S06: RPeTeLength"/>
+          <Param header="0" name="Model Output" value="S06: RPectLength"/>
+          <Param header="0" name="Model Output" value="S06: RPeriLength"/>
+          <Param header="0" name="Model Output" value="S06: RPsoaLength"/>
+          <Param header="0" name="Model Output" value="S06: RQuFeLength"/>
+          <Param header="0" name="Model Output" value="S06: RReFeLength"/>
+          <Param header="0" name="Model Output" value="S06: RSartLength"/>
+          <Param header="0" name="Model Output" value="S06: RSeMeLength"/>
+          <Param header="0" name="Model Output" value="S06: RSeTeLength"/>
+          <Param header="0" name="Model Output" value="S06: RSoleLength"/>
+          <Param header="0" name="Model Output" value="S06: RTiAnLength"/>
+          <Param header="0" name="Model Output" value="S06: RTiPoLength"/>
+          <Param header="0" name="Model Output" value="S06: RVaInLength"/>
+          <Param header="0" name="Model Output" value="S06: RVaLaLength"/>
+          <Param header="0" name="Model Output" value="S06: RVaMeLength"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Data Processing" notes="">
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-06 11:24:17"/>
+          <Param header="0" name="First Frame" value="50"/>
+          <Param header="0" name="Last Frame" value="242"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+  </Run>
+
+</Trial>
