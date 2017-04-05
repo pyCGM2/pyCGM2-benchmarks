@@ -1,9 +1,9 @@
 [Node Information]
 TYPE=SUBJECT
-NAME=New Patient 3
+NAME=S03
 [SUBJECT_INFO]
 DESCRIPTION=
-NOTES=
+NOTES=need manual assignment
 STAGES=
 TYPE=
 GENDER=

@@ -95,3 +95,9 @@ Gait patterns/Apparent equinus/origin
 Gait patterns/Crouch/origin
 Gait patterns/Jump/origin
 Gait patterns/True equinus/origin
+
+
+*.mot
+*.trc
+*.sto
+*.history

@@ -340,6 +340,295 @@
           <Param header="0" name="Gait Model Execution Finished" value=""/>
         </Parameters>
       </OperationSubType>
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-13 10:14:48"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-13 12:25:00"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Delete Model Outputs" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-13 12:25:05"/>
+          <Param header="0" name="Model Output" value="S01: LAbsAnkleAngle"/>
+          <Param header="0" name="Model Output" value="S01: LAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S01: LFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S01: LHipAngles"/>
+          <Param header="0" name="Model Output" value="S01: LKneeAngles"/>
+          <Param header="0" name="Model Output" value="S01: LPelvisAngles"/>
+          <Param header="0" name="Model Output" value="S01: RAbsAnkleAngle"/>
+          <Param header="0" name="Model Output" value="S01: RAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S01: RFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S01: RHipAngles"/>
+          <Param header="0" name="Model Output" value="S01: RKneeAngles"/>
+          <Param header="0" name="Model Output" value="S01: RPelvisAngles"/>
+          <Param header="0" name="Model Output" value="S01: LAnkleForce"/>
+          <Param header="0" name="Model Output" value="S01: LGroundReactionForce"/>
+          <Param header="0" name="Model Output" value="S01: LHipForce"/>
+          <Param header="0" name="Model Output" value="S01: LKneeForce"/>
+          <Param header="0" name="Model Output" value="S01: LNormalisedGRF"/>
+          <Param header="0" name="Model Output" value="S01: RAnkleForce"/>
+          <Param header="0" name="Model Output" value="S01: RGroundReactionForce"/>
+          <Param header="0" name="Model Output" value="S01: RHipForce"/>
+          <Param header="0" name="Model Output" value="S01: RKneeForce"/>
+          <Param header="0" name="Model Output" value="S01: RNormalisedGRF"/>
+          <Param header="0" name="Model Output" value="S01: LAnkleMoment"/>
+          <Param header="0" name="Model Output" value="S01: LGroundReactionMoment"/>
+          <Param header="0" name="Model Output" value="S01: LHipMoment"/>
+          <Param header="0" name="Model Output" value="S01: LKneeMoment"/>
+          <Param header="0" name="Model Output" value="S01: RAnkleMoment"/>
+          <Param header="0" name="Model Output" value="S01: RGroundReactionMoment"/>
+          <Param header="0" name="Model Output" value="S01: RHipMoment"/>
+          <Param header="0" name="Model Output" value="S01: RKneeMoment"/>
+          <Param header="0" name="Model Output" value="S01: LFE"/>
+          <Param header="0" name="Model Output" value="S01: LFO"/>
+          <Param header="0" name="Model Output" value="S01: LTI"/>
+          <Param header="0" name="Model Output" value="S01: LTO"/>
+          <Param header="0" name="Model Output" value="S01: PEL"/>
+          <Param header="0" name="Model Output" value="S01: RFE"/>
+          <Param header="0" name="Model Output" value="S01: RFO"/>
+          <Param header="0" name="Model Output" value="S01: RTI"/>
+          <Param header="0" name="Model Output" value="S01: RTO"/>
+          <Param header="0" name="Model Output" value="S01: LAnklePower"/>
+          <Param header="0" name="Model Output" value="S01: LHipPower"/>
+          <Param header="0" name="Model Output" value="S01: LKneePower"/>
+          <Param header="0" name="Model Output" value="S01: RAnklePower"/>
+          <Param header="0" name="Model Output" value="S01: RHipPower"/>
+          <Param header="0" name="Model Output" value="S01: RKneePower"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Data Processing" notes="">
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-13 12:25:10"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Delete Model Outputs" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-14 14:56:00"/>
+          <Param header="0" name="Model Output" value="S01: LAbsAnkleAngle"/>
+          <Param header="0" name="Model Output" value="S01: LAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S01: LFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S01: LHipAngles"/>
+          <Param header="0" name="Model Output" value="S01: LKneeAngles"/>
+          <Param header="0" name="Model Output" value="S01: LPelvisAngles"/>
+          <Param header="0" name="Model Output" value="S01: RAbsAnkleAngle"/>
+          <Param header="0" name="Model Output" value="S01: RAnkleAngles"/>
+          <Param header="0" name="Model Output" value="S01: RFootProgressAngles"/>
+          <Param header="0" name="Model Output" value="S01: RHipAngles"/>
+          <Param header="0" name="Model Output" value="S01: RKneeAngles"/>
+          <Param header="0" name="Model Output" value="S01: RPelvisAngles"/>
+          <Param header="0" name="Model Output" value="S01: LAnkleForce"/>
+          <Param header="0" name="Model Output" value="S01: LGroundReactionForce"/>
+          <Param header="0" name="Model Output" value="S01: LHipForce"/>
+          <Param header="0" name="Model Output" value="S01: LKneeForce"/>
+          <Param header="0" name="Model Output" value="S01: LNormalisedGRF"/>
+          <Param header="0" name="Model Output" value="S01: RAnkleForce"/>
+          <Param header="0" name="Model Output" value="S01: RGroundReactionForce"/>
+          <Param header="0" name="Model Output" value="S01: RHipForce"/>
+          <Param header="0" name="Model Output" value="S01: RKneeForce"/>
+          <Param header="0" name="Model Output" value="S01: RNormalisedGRF"/>
+          <Param header="0" name="Model Output" value="S01: LAnkleMoment"/>
+          <Param header="0" name="Model Output" value="S01: LGroundReactionMoment"/>
+          <Param header="0" name="Model Output" value="S01: LHipMoment"/>
+          <Param header="0" name="Model Output" value="S01: LKneeMoment"/>
+          <Param header="0" name="Model Output" value="S01: RAnkleMoment"/>
+          <Param header="0" name="Model Output" value="S01: RGroundReactionMoment"/>
+          <Param header="0" name="Model Output" value="S01: RHipMoment"/>
+          <Param header="0" name="Model Output" value="S01: RKneeMoment"/>
+          <Param header="0" name="Model Output" value="S01: LFE"/>
+          <Param header="0" name="Model Output" value="S01: LFO"/>
+          <Param header="0" name="Model Output" value="S01: LTI"/>
+          <Param header="0" name="Model Output" value="S01: LTO"/>
+          <Param header="0" name="Model Output" value="S01: PEL"/>
+          <Param header="0" name="Model Output" value="S01: RFE"/>
+          <Param header="0" name="Model Output" value="S01: RFO"/>
+          <Param header="0" name="Model Output" value="S01: RTI"/>
+          <Param header="0" name="Model Output" value="S01: RTO"/>
+          <Param header="0" name="Model Output" value="S01: LAnklePower"/>
+          <Param header="0" name="Model Output" value="S01: LHipPower"/>
+          <Param header="0" name="Model Output" value="S01: LKneePower"/>
+          <Param header="0" name="Model Output" value="S01: RAnklePower"/>
+          <Param header="0" name="Model Output" value="S01: RHipPower"/>
+          <Param header="0" name="Model Output" value="S01: RKneePower"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+    <OperationType name="Data Processing" notes="">
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-14 14:56:08"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-17 16:31:33"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Delete Model Outputs" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-17 16:59:48"/>
+          <Param header="0" name="Model Outputs" value="*"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-17 16:59:49"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Delete Model Outputs" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-20 09:46:05"/>
+          <Param header="0" name="Model Outputs" value="*"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-20 09:46:05"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Distal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-30 11:15:29"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Proximal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+          <Param header="1" name="Log Output" value=""/>
+          <Param header="0" name="Gait Model Execution Finished" value=""/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-30 11:15:55"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="380"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Proximal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
     </OperationType>
   </Run>
 

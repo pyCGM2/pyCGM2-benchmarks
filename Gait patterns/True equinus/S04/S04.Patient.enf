@@ -3,7 +3,7 @@ TYPE=SUBJECT
 NAME=S04
 [SUBJECT_INFO]
 DESCRIPTION=
-NOTES=trial 01 = trial 02
+NOTES=trial 01 = trial 02 - no need manual assignment
 STAGES=
 TYPE=
 GENDER=

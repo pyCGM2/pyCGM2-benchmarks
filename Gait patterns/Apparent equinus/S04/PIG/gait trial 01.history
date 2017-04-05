@@ -258,6 +258,23 @@
           <Param header="0" name="Gait Model Execution Finished" value=""/>
         </Parameters>
       </OperationSubType>
+      <OperationSubType name="Process Dynamic Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-30 11:24:26"/>
+          <Param header="0" name="First Frame" value="1"/>
+          <Param header="0" name="Last Frame" value="452"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Reaction Reference Frame" value="Proximal Segment"/>
+          <Param header="0" name="Power Output" value="Standard"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Allow cross-plate strikes" value="Yes"/>
+          <Param header="1" name="Radius of Gyration" value=""/>
+          <Param header="0" name="Pelvis" value="0.31"/>
+          <Param header="0" name="Thorax" value="0.31"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
     </OperationType>
   </Run>
 

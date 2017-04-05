@@ -94,6 +94,120 @@
           <Param header="0" name="Version" value="3.0.1"/>
         </Parameters>
       </OperationSubType>
+      <OperationSubType name="Process Static Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-13 10:22:11"/>
+          <Param header="0" name="First Frame" value="76"/>
+          <Param header="0" name="Last Frame" value="86"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Generate RT Subject" value="Yes"/>
+          <Param header="0" name="RT Subject Template" value=""/>
+          <Param header="1" name="Assume Horizontal" value=""/>
+          <Param header="0" name="Left Foot" value="Yes"/>
+          <Param header="0" name="Right Foot" value="Yes"/>
+          <Param header="0" name="Head" value="Yes"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Static Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-13 10:23:21"/>
+          <Param header="0" name="First Frame" value="76"/>
+          <Param header="0" name="Last Frame" value="86"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Generate RT Subject" value="Yes"/>
+          <Param header="0" name="RT Subject Template" value=""/>
+          <Param header="1" name="Assume Horizontal" value=""/>
+          <Param header="0" name="Left Foot" value="Yes"/>
+          <Param header="0" name="Right Foot" value="Yes"/>
+          <Param header="0" name="Head" value="Yes"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Static Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-17 16:28:47"/>
+          <Param header="0" name="First Frame" value="76"/>
+          <Param header="0" name="Last Frame" value="86"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Generate RT Subject" value="Yes"/>
+          <Param header="0" name="RT Subject Template" value=""/>
+          <Param header="1" name="Assume Horizontal" value=""/>
+          <Param header="0" name="Left Foot" value="Yes"/>
+          <Param header="0" name="Right Foot" value="Yes"/>
+          <Param header="0" name="Head" value="Yes"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Static Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-17 16:31:37"/>
+          <Param header="0" name="First Frame" value="76"/>
+          <Param header="0" name="Last Frame" value="86"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Generate RT Subject" value="Yes"/>
+          <Param header="0" name="RT Subject Template" value=""/>
+          <Param header="1" name="Assume Horizontal" value=""/>
+          <Param header="0" name="Left Foot" value="Yes"/>
+          <Param header="0" name="Right Foot" value="Yes"/>
+          <Param header="0" name="Head" value="Yes"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Delete Model Outputs" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-17 16:59:53"/>
+          <Param header="0" name="Model Outputs" value="*"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Static Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-17 16:59:53"/>
+          <Param header="0" name="First Frame" value="76"/>
+          <Param header="0" name="Last Frame" value="86"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Generate RT Subject" value="Yes"/>
+          <Param header="0" name="RT Subject Template" value=""/>
+          <Param header="1" name="Assume Horizontal" value=""/>
+          <Param header="0" name="Left Foot" value="Yes"/>
+          <Param header="0" name="Right Foot" value="Yes"/>
+          <Param header="0" name="Head" value="Yes"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Delete Model Outputs" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-20 09:46:09"/>
+          <Param header="0" name="Model Outputs" value="*"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Process Static Plug-in Gait Model" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-20 09:46:09"/>
+          <Param header="0" name="First Frame" value="76"/>
+          <Param header="0" name="Last Frame" value="86"/>
+          <Param header="0" name="Marker Diameter" value="25"/>
+          <Param header="0" name="Anterior Thorax Tilt is Positive" value="Yes"/>
+          <Param header="0" name="Generate RT Subject" value="Yes"/>
+          <Param header="0" name="RT Subject Template" value=""/>
+          <Param header="1" name="Assume Horizontal" value=""/>
+          <Param header="0" name="Left Foot" value="Yes"/>
+          <Param header="0" name="Right Foot" value="Yes"/>
+          <Param header="0" name="Head" value="Yes"/>
+          <Param header="1" name="Information" value=""/>
+          <Param header="0" name="Version" value="3.0.1"/>
+        </Parameters>
+      </OperationSubType>
     </OperationType>
   </Run>
 

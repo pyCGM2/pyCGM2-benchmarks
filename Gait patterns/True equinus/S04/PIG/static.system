@@ -2526,7 +2526,7 @@
   <ParamDefinitionList name="DeviceOutputComponent::Imported AMTI OR6 Series Force Plate::Raw">
     <ParamListGroup name="">
       <ParamList name="DeviceOutputComponent::1,4,1">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 1"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 1"/>
         <Param name="DeviceTag" value="1"/>
         <Param name="DeviceID" value="1"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2534,7 +2534,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::1,4,2">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 2"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 2"/>
         <Param name="DeviceTag" value="1"/>
         <Param name="DeviceID" value="1"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2542,7 +2542,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::1,4,3">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 3"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 3"/>
         <Param name="DeviceTag" value="1"/>
         <Param name="DeviceID" value="1"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2550,7 +2550,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::1,4,4">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 4"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 4"/>
         <Param name="DeviceTag" value="1"/>
         <Param name="DeviceID" value="1"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2558,7 +2558,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::1,4,5">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 5"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 5"/>
         <Param name="DeviceTag" value="1"/>
         <Param name="DeviceID" value="1"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2566,7 +2566,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::1,4,6">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 6"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 6"/>
         <Param name="DeviceTag" value="1"/>
         <Param name="DeviceID" value="1"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2574,7 +2574,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::3,4,1">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 7"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 7"/>
         <Param name="DeviceTag" value="3"/>
         <Param name="DeviceID" value="3"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2582,7 +2582,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::3,4,2">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 8"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 8"/>
         <Param name="DeviceTag" value="3"/>
         <Param name="DeviceID" value="3"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2590,7 +2590,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::3,4,3">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 9"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 9"/>
         <Param name="DeviceTag" value="3"/>
         <Param name="DeviceID" value="3"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2598,7 +2598,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::3,4,4">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 10"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 10"/>
         <Param name="DeviceTag" value="3"/>
         <Param name="DeviceID" value="3"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2606,7 +2606,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::3,4,5">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 11"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 11"/>
         <Param name="DeviceTag" value="3"/>
         <Param name="DeviceID" value="3"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2614,7 +2614,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::3,4,6">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 12"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 12"/>
         <Param name="DeviceTag" value="3"/>
         <Param name="DeviceID" value="3"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2622,7 +2622,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::4,4,1">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 31"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 31"/>
         <Param name="DeviceTag" value="4"/>
         <Param name="DeviceID" value="4"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2630,7 +2630,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::4,4,2">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 32"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 32"/>
         <Param name="DeviceTag" value="4"/>
         <Param name="DeviceID" value="4"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2638,7 +2638,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::4,4,3">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 33"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 33"/>
         <Param name="DeviceTag" value="4"/>
         <Param name="DeviceID" value="4"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2646,7 +2646,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::4,4,4">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 34"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 34"/>
         <Param name="DeviceTag" value="4"/>
         <Param name="DeviceID" value="4"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2654,7 +2654,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::4,4,5">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 35"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 35"/>
         <Param name="DeviceTag" value="4"/>
         <Param name="DeviceID" value="4"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2662,7 +2662,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::4,4,6">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 36"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 36"/>
         <Param name="DeviceTag" value="4"/>
         <Param name="DeviceID" value="4"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2670,7 +2670,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::5,4,1">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 37"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 37"/>
         <Param name="DeviceTag" value="5"/>
         <Param name="DeviceID" value="5"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2678,7 +2678,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::5,4,2">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 38"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 38"/>
         <Param name="DeviceTag" value="5"/>
         <Param name="DeviceID" value="5"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2686,7 +2686,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::5,4,3">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 39"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 39"/>
         <Param name="DeviceTag" value="5"/>
         <Param name="DeviceID" value="5"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2694,7 +2694,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::5,4,4">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 40"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 40"/>
         <Param name="DeviceTag" value="5"/>
         <Param name="DeviceID" value="5"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2702,7 +2702,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::5,4,5">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 41"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 41"/>
         <Param name="DeviceTag" value="5"/>
         <Param name="DeviceID" value="5"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2710,7 +2710,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::5,4,6">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 42"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 42"/>
         <Param name="DeviceTag" value="5"/>
         <Param name="DeviceID" value="5"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2718,7 +2718,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::6,4,1">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 44"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 44"/>
         <Param name="DeviceTag" value="6"/>
         <Param name="DeviceID" value="6"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2726,7 +2726,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::6,4,2">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 45"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 45"/>
         <Param name="DeviceTag" value="6"/>
         <Param name="DeviceID" value="6"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2734,7 +2734,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::6,4,3">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 46"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 46"/>
         <Param name="DeviceTag" value="6"/>
         <Param name="DeviceID" value="6"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2742,7 +2742,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::6,4,4">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 47"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 47"/>
         <Param name="DeviceTag" value="6"/>
         <Param name="DeviceID" value="6"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2750,7 +2750,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::6,4,5">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 48"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 48"/>
         <Param name="DeviceTag" value="6"/>
         <Param name="DeviceID" value="6"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2758,7 +2758,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::6,4,6">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 49"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 49"/>
         <Param name="DeviceTag" value="6"/>
         <Param name="DeviceID" value="6"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2766,7 +2766,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::7,4,1">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 50"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 50"/>
         <Param name="DeviceTag" value="7"/>
         <Param name="DeviceID" value="7"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2774,7 +2774,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::7,4,2">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 51"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 51"/>
         <Param name="DeviceTag" value="7"/>
         <Param name="DeviceID" value="7"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2782,7 +2782,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::7,4,3">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 52"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 52"/>
         <Param name="DeviceTag" value="7"/>
         <Param name="DeviceID" value="7"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2790,7 +2790,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::7,4,4">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 53"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 53"/>
         <Param name="DeviceTag" value="7"/>
         <Param name="DeviceID" value="7"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2798,7 +2798,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::7,4,5">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 54"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 54"/>
         <Param name="DeviceTag" value="7"/>
         <Param name="DeviceID" value="7"/>
         <Param name="DeviceOutputID" value="4"/>
@@ -2806,7 +2806,7 @@
         <Param name="SourcePin" value="0"/>
       </ParamList>
       <ParamList name="DeviceOutputComponent::7,4,6">
-        <Param name="DeviceOutputComponentName" value="Raw.Raw.Pin 55"/>
+        <Param name="DeviceOutputComponentName" value="Raw.Raw.Raw.Raw.Pin 55"/>
         <Param name="DeviceTag" value="7"/>
         <Param name="DeviceID" value="7"/>
         <Param name="DeviceOutputID" value="4"/>

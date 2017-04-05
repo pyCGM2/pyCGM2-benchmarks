@@ -1,9 +1,9 @@
 [Node Information]
 TYPE=SUBJECT
-NAME=New Patient 2
+NAME=S02
 [SUBJECT_INFO]
-DESCRIPTION=
-NOTES=
+DESCRIPTION=need trials #1-2
+NOTES=only FP3 activated
 STAGES=
 TYPE=
 GENDER=

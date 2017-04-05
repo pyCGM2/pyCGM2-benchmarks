@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Trial name="gait trial 01" notes="">
+
+  <Parameters>
+    <Param header="0" name="c3d" value="gait trial 01.c3d"/>
+    <Param header="0" name="Path" value="C:\Users\AAA34169\Documents\VICON DATA\pyCGM2-benchmarks\Gait patterns\Apparent equinus\S01\labelled-backup"/>
+  </Parameters>
+
+  <Run name="" notes="">
+    <Parameters>
+      <Param header="0" name="Version" value="2.5.0.93422h"/>
+    </Parameters>
+    <OperationType name="Manual Edits" notes="">
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-10 22:10:06"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-10 22:10:11"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-10 22:10:16"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-10 22:10:22"/>
+        </Parameters>
+      </OperationSubType>
+      <OperationSubType name="Set Force Plate Foot Contact" notes="">
+        <Parameters>
+          <Param header="0" name="Date" value="2017-Mar-10 22:10:25"/>
+        </Parameters>
+      </OperationSubType>
+    </OperationType>
+  </Run>
+
+</Trial>

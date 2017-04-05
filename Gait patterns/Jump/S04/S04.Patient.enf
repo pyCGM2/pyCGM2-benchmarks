@@ -2,8 +2,8 @@
 TYPE=SUBJECT
 NAME=S04
 [SUBJECT_INFO]
-DESCRIPTION=
-NOTES=trial 01 = trial 02  +  warn : no Left Kinetic
+DESCRIPTION= no Left Kinetic
+NOTES=trial 01 = trial 02 
 STAGES=
 TYPE=
 GENDER=
